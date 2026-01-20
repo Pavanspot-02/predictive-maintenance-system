@@ -1,4 +1,5 @@
-🔧 Predictive Maintenance System
+Predictive Maintenance System
+
 An end-to-end machine learning system that predicts industrial equipment failures using sensor data, enabling proactive maintenance and reducing downtime costs by up to 40%. Achieves 98.2% accuracy in forecasting failures 24-72 hours in advance.
 
 📊 Live Demo
