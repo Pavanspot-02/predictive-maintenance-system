@@ -122,7 +122,8 @@ Sensor data distributions
 
 Failure type breakdown
 
-https://screenshots/correlation_heatmap.png
+<img width="1112" height="1009" alt="Heatmap" src="https://github.com/user-attachments/assets/2c9b23b7-53ee-49be-bbc6-8dcc399457fb" />
+
 Feature correlation matrix showing relationships between sensors
 
 🔧 Feature Engineering
